@@ -1,0 +1,19 @@
+{
+    "input_file": "raw.ARW",
+    "output_file": "processed_output.jpg",
+    "processing_time": 54.58464241027832,
+    "processing_date": "2024-11-09T23:58:38.165248",
+    "settings_used": {
+        "brightness": 1.2,
+        "contrast": 1.1,
+        "sharpness": 1.0,
+        "noise_reduction": true,
+        "auto_wb": true,
+        "preview_size": [
+            800,
+            600
+        ],
+        "save_metadata": true
+    },
+    "cache_used": true
+}

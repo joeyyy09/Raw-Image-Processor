@@ -1,0 +1,5 @@
+rawpy==0.17.1
+numpy==1.23.5
+opencv-python==4.7.0.72
+Pillow==9.4.0
+psutil==5.9.4
