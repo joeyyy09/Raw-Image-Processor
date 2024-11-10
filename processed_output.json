@@ -1,8 +1,8 @@
 {
     "input_file": "raw.ARW",
     "output_file": "processed_output.jpg",
-    "processing_time": 54.58464241027832,
-    "processing_date": "2024-11-09T23:58:38.165248",
+    "processing_time": 45.34702515602112,
+    "processing_date": "2024-11-10T17:24:58.800730",
     "settings_used": {
         "brightness": 1.2,
         "contrast": 1.1,
